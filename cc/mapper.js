@@ -1,4 +1,4 @@
-// import map from 'default_bindings.json';
+import map from 'default_bindings.json';
 const map = {};
 let history = [];
 
@@ -17,3 +17,6 @@ window.addEventListener('keyup', (window, event) => {
         key: map[event.keyCode] || event.keyCode,
     });
 });
+
+window.onkeyup(new KeyboardEvent(35));
+window.onkeydown(new KeyboardEvent(35));
