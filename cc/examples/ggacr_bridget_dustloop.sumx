@@ -1,0 +1,20 @@
+; Guilty Gear: Accent Core +R / Bridget "Combo List" Samples
+; https://dustloop.com/wiki/index.php?title=GGACR/Bridget/Combos
+;
+;
+;;; "Combo List"
+;; "Standard Combos"
+;
+; Hit minimum "(1)" present. Irregular whitespace. Slash move present.
+5K/ 2K > 5S(1) > ( 2S> 2D) / 236K,P
+; Slash move present.
+6K > 236K,P/K
+; Slash move present. "j*X" conditional inputs present.
+jD/ 6P (> 6S) > jP (> jS) > j2S > jc > jP > jS > j2S/ j623P
+; "j*X" conditional inputs present.
+2S > jc > jK > jS > j2S > jc > jS > j2S > j623P
+; far slash (f.S) conditional input present.
+f.S > 2S > 6S
+; "(up to x3)" preclusion present.
+5P(up to x3) > f.S (> 6S)
+;
