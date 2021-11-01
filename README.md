@@ -13,3 +13,5 @@ A frame-by-frame input trainer for input regiment games, especially fighting gam
 - [ ] Move fuzzing
 - [ ] Box generation
 - [ ] Phantom move rule validator
+- [ ] Live input recording
+  - [ ] Input playback and file export
