@@ -1,0 +1,30 @@
+; Guilty Gear: Strive / Sol_Badguy "Combo List" Samples
+; https://dustloop.com/wiki/index.php?title=GGST/Sol_Badguy/Combos
+;
+;
+;;; "Beginner Combo List"
+;
+; Neutral into HS.
+5P > 6H
+; Anti-air neutral. Contains anti-air (AA) context.
+AA 5P > 6S > 214K
+;
+6P > 236KK
+;
+5K > 6S > 236KK
+;
+AA 5K > jc, j.S > j.214K
+;
+2K > 2D > 214K
+; Contains "delay" context.
+c.S > delay f.S > 5H > 236KK
+; GG specifier "Wall Splat" (WS) present.
+c.S > 5H, 66 5K > 6S > 236K, 5K > 6S > 214K, WS 6H
+;
+2H > 236K, 5K > 6S > 214K
+; GG specifier "Wall Splat" (WS) present.
+2H > 236K, 5K > 6S > 236K, 5K > 6S > 236KK, WS 6H
+;
+;;; "Combo List"
+;; "*P Starters"
+;
