@@ -1,0 +1,13 @@
+; Guilty Gear: Xrd REV 2 / Baiken "Combo List" Samples
+; https://dustloop.com/wiki/index.php?title=GGXRD-R2/Baiken/Combos
+;
+;;; "Combo List"
+;; "Universal Combos"
+;
+; Unique identifier "Rokkonsogi" present.
+5K > c.S > 5H > Rokkonsogi
+; Malformed progression in formatting.
+5S 6P 2S 5H > Rokkonsogi
+; Slash input present. Counter hit (CH) conditional input present.
+CH 2S/CH f.S > 2H > Rokkonsogi
+;
